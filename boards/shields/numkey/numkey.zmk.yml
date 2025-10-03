@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: numkey
+name: numkey
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - numkey_left
+  - numkey_right

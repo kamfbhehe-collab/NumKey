@@ -1,0 +1,4 @@
+config SHIELD_NUMKEY_LEFT
+    def_bool $(shields_list_contains,numkey_left)
+config SHIELD_NUMKEY_RIGHT
+    def_bool $(shields_list_contains,numkey_right)
